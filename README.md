@@ -5,7 +5,7 @@ ejercicios
 
 **foca bonita**
 
-*por qué ne gustan?*
+*por qué me gustan?*
 - por flojas
 - por tiernas
 - por chistosas
