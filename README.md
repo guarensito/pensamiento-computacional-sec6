@@ -4,4 +4,4 @@ ejercicios
 ## Primer ejercicio de códdigo
 
 imagen de ruta:
-![imagen](iameges-pensamiento/foka.png)
+![imagen](iameges-pensamiento/foka.jpeg)
